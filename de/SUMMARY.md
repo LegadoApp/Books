@@ -1,5 +1,5 @@
 # Index
 
-* [First Chapter](I.md)
-* [Second Chapter](II.md)
-* [Third Chapter](III.md)
+* [erste Kapitel](I.md)
+* [zweite Kapitel](II.md)
+* [dritte Kapitel](III.md)
