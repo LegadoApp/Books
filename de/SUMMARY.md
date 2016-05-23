@@ -1,4 +1,4 @@
-# Table of content
+# Index
 
 * [First Chapter](I.md)
 * [Second Chapter](II.md)
