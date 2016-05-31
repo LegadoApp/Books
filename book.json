@@ -4,5 +4,9 @@
         "search-pro",
         "sitemap"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "http://legadoapp.github.io/"
+        }
+    }
 }
