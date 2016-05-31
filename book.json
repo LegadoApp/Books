@@ -7,7 +7,7 @@
     "pluginsConfig": {
         "search-pro": {
         "cutWordLib": "nodejieba",
-         "defineWord" : ["Gregorio","Samsa"]
+         "defineWord" : "Gregorio","Samsa"
          }
         "sitemap": {
             "hostname": "http://legadoapp.github.io/"
