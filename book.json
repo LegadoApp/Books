@@ -7,7 +7,7 @@
     "pluginsConfig": {
         "search-pro": {
         "cutWordLib": "nodejieba",
-         "defineWord" : ["小需求","基础建设"]
+         "defineWord" : ["Capitulo","Primer"]
          }
         "sitemap": {
             "hostname": "http://legadoapp.github.io/"
