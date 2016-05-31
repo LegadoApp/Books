@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "language-picker",
+        "search-pro",
+        "sitemap"
+    ],
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "http://legadoapp.github.io/"
+        }
+    }
+}
