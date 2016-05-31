@@ -5,7 +5,10 @@
         "sitemap"
     ],
     "pluginsConfig": {
-
+        "search-pro": {
+        "cutWordLib": "nodejieba",
+         "defineWord" : ["小需求","基础建设"]
+         }
         "sitemap": {
             "hostname": "http://legadoapp.github.io/"
         }
