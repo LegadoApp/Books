@@ -5,11 +5,10 @@
         "sitemap"
     ],
     "pluginsConfig": {
+
         "sitemap": {
             "hostname": "http://legadoapp.github.io/"
         }
-        "search-pro": {
-        "cutWordLib": "nodejieba",
-      }
+        
     }
 }
