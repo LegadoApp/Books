@@ -6,7 +6,7 @@
     ],
     "pluginsConfig": {
         "search-pro": {
-          "cutWordLib": "nodejieba"
+          "cutWordLib": "nodejieba",
          }
         "sitemap": {
             "hostname": "http://legadoapp.github.io/"
